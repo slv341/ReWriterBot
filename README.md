@@ -17,7 +17,7 @@
 BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN #Получить токен можно через @BotFather в телеграме
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY 
 
-#Скачать репозиторий на локальную машину
+Скачать репозиторий на локальную машину
 1. git clone https://github.com/slv341/ReWriterBot
 2. cd ReWriterBot
 
