@@ -20,10 +20,12 @@ OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 #Скачать репозиторий на локальную машину
 1. git clone https://github.com/slv341/ReWriterBot
 2. cd ReWriterBot
+
 Установка и запуск виртуального окружения
 1. python -m venv venv
 2. cd venv/Scripts
 3. activate
+   
 Запуск бота
 1. cd ../.. (чтобы выйти из venv/Scripts обратно в главную папку репозитория)
 2. pip install -r requirements.txt
