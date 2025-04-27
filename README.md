@@ -13,9 +13,9 @@
 версия Python 3.12.9
 
 Перед всем сначала настройте свой .env файл.
-Заполните поля 
-BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN #Получить токен можно через @BotFather в телеграме
-OPENAI_API_KEY=YOUR_OPENAI_API_KEY 
+Заполните поля:
+1. BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN #Получить токен можно через @BotFather в телеграме
+2. OPENAI_API_KEY=YOUR_OPENAI_API_KEY 
 
 Скачать репозиторий на локальную машину
 1. git clone https://github.com/slv341/ReWriterBot
