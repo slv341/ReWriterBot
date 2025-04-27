@@ -1,0 +1,6 @@
+openai==1.76.0
+fastapi==0.115.12
+uvicorn==0.34.2
+requests==2.32.3
+python-telegram-bot==22.0
+dotenv==0.9.9
